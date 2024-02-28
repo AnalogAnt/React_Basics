@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.butt {
+  background-color: transparent;
+  border-style: none;
+  color: #7b8794;
+  padding: 10px;
+}
+.activeButt {
+  color: #2563eb !important;
+  font-weight: bold;
+}
+.activeRule {
+  border: 1px solid #2563eb !important;
+}

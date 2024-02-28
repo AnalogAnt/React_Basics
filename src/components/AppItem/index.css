@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.appitem {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  min-width: 150px;
+}
+.appimg {
+  height: 50px;
+  width: 50px;
+}
+.appname {
+  font-weight: 700;
+  font-size: 15px;
+  color: #1e293b;
+}
